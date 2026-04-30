@@ -38,7 +38,7 @@ A fine-tuning and deployment framework for the [NVIDIA GR00T N1.5](https://huggi
 Clone the repo:
 
 ```sh
-git clone https://gitee.com/vincent-gu/u0.git
+git clone https://github.com/VincentGu2000/u0model.git
 cd u0
 ```
 
@@ -271,7 +271,7 @@ python scripts/eval_policy.py \
 
 ### 7.1 Parallel Evaluation with Multi-GPU
 
-For automated evaluation pipelines, please refer to the [fish-vla](https://gitee.com/vincent-gu/fish-vla) project. To run parallel evaluation across multiple GPUs, use the following script:
+For automated evaluation pipelines, please refer to the [u0env](https://github.com/VincentGu2000/u0env) project. To run parallel evaluation across multiple GPUs, use the following script:
 
 ```sh
 python scripts/launch_multi_gpu.py \

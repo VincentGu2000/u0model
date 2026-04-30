@@ -6,10 +6,10 @@ Thanks for considering contributing to this project! This project is forked from
 
 ### Did you find a bug?
 
-First, [search existing issues](https://gitee.com/vincent-gu/u0/issues) to see whether your issue has already been reported.
+First, [search existing issues](https://github.com/VincentGu2000/u0model/issues) to see whether your issue has already been reported.
 If your issue has already been reported, please comment on the existing issue.
 
-Otherwise, [open a new issue](https://gitee.com/vincent-gu/u0/issues/new). Be sure to include a clear title and description. The description should include as much relevant information as possible, explain how to reproduce the erroneous behavior as well as the behavior you expect to see. Ideally you would include a code sample or an executable test case demonstrating the expected behavior.
+Otherwise, [open a new issue](https://github.com/VincentGu2000/u0model/issues/new). Be sure to include a clear title and description. The description should include as much relevant information as possible, explain how to reproduce the erroneous behavior as well as the behavior you expect to see. Ideally you would include a code sample or an executable test case demonstrating the expected behavior.
 
 ### Do you have a suggestion for an enhancement or new feature?
 
@@ -17,7 +17,7 @@ We use Gitee issues to track feature requests. Before you create a feature reque
 
 * Make sure you have a clear idea of the enhancement you would like. If you have a vague idea, consider discussing it first in an issue.
 * Check the documentation to make sure your feature does not already exist.
-* [Search existing issues](https://gitee.com/vincent-gu/u0/issues) to see whether your feature has already been suggested.
+* [Search existing issues](https://github.com/VincentGu2000/u0model/issues) to see whether your feature has already been suggested.
 
 When creating your request, please:
 
@@ -33,7 +33,7 @@ When you're ready to contribute code to address an open issue, please follow the
 
     <details><summary>Expand details</summary><br/>
 
-    If you haven't already done so, please [fork](https://gitee.com/vincent-gu/u0/fork) this repository on Gitee.
+    If you haven't already done so, please [fork](https://github.com/VincentGu2000/u0model/fork) this repository on Gitee.
 
     Then clone your fork locally with
 
@@ -99,7 +99,7 @@ When you're ready to contribute code to address an open issue, please follow the
 
         ruff check . --fix
 
-    After all checks have passed, you can [open a new Pull Request](https://gitee.com/vincent-gu/u0/pulls).
+    After all checks have passed, you can [open a new Pull Request](https://github.com/VincentGu2000/u0model/pulls).
     Make sure you have a clear description of the problem and the solution, and include a link to relevant issues.
 
     </details>
