@@ -1,0 +1,66 @@
+{
+    "state": {
+        "joint_pos": {
+            "start": 0,
+            "end": 5
+        },
+        "pwm": {
+            "start": 5,
+            "end": 13
+        },
+        "joint_v": {
+            "start": 13,
+            "end": 18
+        },
+        "dvl_v": {
+            "start": 18,
+            "end": 21
+        },
+        "imu_av": {
+            "start": 21,
+            "end": 24
+        },
+        "imu_la": {
+            "start": 24,
+            "end": 27
+        },
+        "pressure": {
+            "start": 27,
+            "end": 28
+        },
+        "dvl_h": {
+            "start": 28,
+            "end": 29
+        }
+    },
+    "action": {
+        "joint_pos": {
+            "start": 0,
+            "end": 5
+        },
+        "pwm": {
+            "start": 5,
+            "end": 13
+        }
+    },
+    
+    "target_pos": {
+        "target_pos": {
+            "start": 0,
+            "end": 6
+        }
+    },
+    "video": {
+        "ego": {
+            "original_key": "observation.images.ego"
+        },
+        "wrist": {
+            "original_key": "observation.images.wrist"
+        }
+    },
+    "annotation": {
+        "human.action.task_description": {
+            "original_key": "task_index"
+        }
+    }
+}
