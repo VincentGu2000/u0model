@@ -39,7 +39,7 @@ Clone the repo:
 
 ```sh
 git clone https://github.com/VincentGu2000/u0model.git
-cd u0
+cd u0model
 ```
 
 Create a new conda environment and install the dependencies. We recommend Python 3.10:
